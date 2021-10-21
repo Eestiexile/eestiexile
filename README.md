@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eestiexile
+- 👋 Hi, I’m @eestiexile
 - 👀 I’m interested in Python, R, Power Query, M, Data Sciences...
 - 🌱 I’m currently learning R, Power Query, M
 - 💞️ I’m looking to collaborate on Power Query, Power BI.
