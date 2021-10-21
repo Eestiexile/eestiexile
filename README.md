@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, R, Power Query, M, Data Sciences...
 - 🌱 I’m currently learning R, Power Query, M
 - 💞️ I’m looking to collaborate on Power Query, Power BI.
-- 📫 How to reach me on eestiexile.wordpress.com
+- 📫 How to reach me ...
 
 <!---
 Eestiexile/Eestiexile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
